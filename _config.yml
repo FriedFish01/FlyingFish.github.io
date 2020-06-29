@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
 title:            "jekyll blog|GitHub blog"
 description:      "jekyllm博客模板 || 自定义修改"
-url:              https://FieldFish01.github.io # 域名
-signoff:          "FieldFish01" # Your name
+url:              https://flyingfish.github.io # 域名
+signoff:          "flyingfish" # Your name
 facebook_appid:   #liberxue
 google_analytics: UA-101222464-1
 share:            true 
